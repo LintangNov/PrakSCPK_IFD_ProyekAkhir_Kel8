@@ -1,0 +1,1001 @@
+student_id,major,country,GPA,extracurricular_hours_per_week,exercise_hours_per_week,screen_time_hours,mental_stress_level
+S06253,Mathematics,Germany,4.0,0.7,4.3,7.7,3.7
+S04685,Engineering,Canada,3.31,6.0,5.7,8.0,4.8
+S01732,Law,India,3.72,2.5,5.4,8.5,4.2
+S04743,Medicine,Italy,3.9,5.3,5.5,6.9,3.3
+S04522,Computer Science,Germany,4.0,7.3,0.9,2.4,3.0
+S06341,Computer Science,Canada,3.35,4.2,0.0,6.0,4.9
+S00577,Medicine,Brazil,3.56,4.0,5.1,5.2,5.3
+S05203,Computer Science,India,3.67,7.4,2.0,4.7,4.7
+S06364,Computer Science,Canada,3.3,2.7,1.4,6.1,5.7
+S00440,Physics,USA,4.0,5.3,4.5,5.2,3.3
+S02751,Biology,Netherlands,4.0,6.4,3.5,7.0,3.9
+S07488,Business,UK,4.0,6.6,2.9,3.8,4.2
+S05273,Biology,Bangladesh,3.44,1.6,0.9,8.6,4.4
+S05654,Business,Brazil,3.98,3.9,0.1,7.3,4.4
+S04000,Psychology,Bangladesh,3.98,2.0,4.9,7.4,5.0
+S06034,Economics,USA,3.76,4.9,1.4,5.0,2.7
+S00583,Business,Netherlands,4.0,3.3,5.0,5.3,3.4
+S09931,Business,India,3.24,1.3,2.8,4.3,6.3
+S07052,Economics,Bangladesh,4.0,5.4,0.0,5.3,2.8
+S08159,Engineering,India,3.89,3.8,3.1,6.9,2.7
+S09897,Computer Science,South Korea,3.53,4.0,4.0,6.6,5.1
+S02250,Biology,Germany,4.0,2.6,6.7,5.9,4.5
+S04641,Psychology,France,4.0,4.8,2.8,7.0,3.2
+S09486,Law,India,3.89,2.9,2.9,6.6,3.1
+S04948,Law,UK,3.45,2.4,3.0,3.9,5.0
+S09921,Engineering,Netherlands,3.23,2.4,5.1,6.0,4.0
+S01964,Psychology,USA,4.0,8.4,3.1,6.7,4.7
+S08244,Engineering,USA,3.96,4.5,3.9,7.7,5.1
+S06591,Computer Science,Australia,3.48,4.7,4.1,2.8,3.8
+S08848,Mathematics,Netherlands,4.0,4.8,7.1,7.0,3.3
+S00322,Law,Bangladesh,3.56,3.9,2.3,8.9,5.7
+S02679,Engineering,France,3.82,4.3,2.1,5.5,2.5
+S04626,Medicine,India,4.0,3.8,2.6,5.2,5.0
+S04950,Law,UK,3.83,0.7,2.0,8.3,5.3
+S08329,Biology,UK,4.0,4.4,3.6,5.6,2.9
+S03338,Mathematics,Canada,3.5,2.9,2.9,7.9,2.7
+S05590,Biology,India,3.66,2.7,6.2,5.8,5.3
+S00252,Economics,Netherlands,3.55,3.6,6.0,8.1,2.4
+S03974,Economics,Canada,3.49,4.5,4.7,8.9,5.0
+S06631,Computer Science,Bangladesh,3.05,1.6,4.8,5.2,3.1
+S05548,Engineering,South Korea,4.0,6.0,2.0,7.0,3.8
+S00036,Physics,Japan,3.1,4.6,1.6,5.5,4.4
+S08363,Economics,Brazil,3.49,2.8,3.3,6.3,3.4
+S01514,Physics,France,2.44,7.7,4.5,7.8,5.5
+S09318,Psychology,France,2.81,0.2,2.9,8.4,6.4
+S00040,Mathematics,Bangladesh,4.0,3.0,3.9,3.6,2.9
+S04820,Medicine,Brazil,3.42,6.3,1.2,3.4,5.3
+S03466,Mathematics,Japan,3.69,2.5,2.6,2.5,3.5
+S01761,Biology,Bangladesh,4.0,3.9,6.8,6.4,3.2
+S02305,Business,Australia,4.0,4.1,5.3,3.7,4.0
+S03724,Medicine,Australia,3.2,8.1,6.4,3.6,1.0
+S08285,Computer Science,Italy,3.64,0.0,0.6,7.0,3.4
+S04994,Medicine,Brazil,3.84,3.9,4.6,6.8,1.8
+S08128,Economics,Netherlands,3.32,3.6,2.7,5.5,3.4
+S03033,Biology,France,4.0,2.4,0.0,4.2,5.6
+S07939,Mathematics,Netherlands,4.0,6.3,4.3,7.2,3.3
+S03040,Engineering,Netherlands,3.43,4.1,0.2,6.3,1.4
+S09656,Physics,Brazil,4.0,3.6,6.2,6.2,3.8
+S02546,Psychology,South Korea,3.99,3.1,0.0,5.3,3.9
+S02593,Psychology,Canada,3.65,2.4,6.1,6.6,4.5
+S01189,Engineering,Netherlands,4.0,0.0,0.0,5.3,5.1
+S07967,Physics,Canada,4.0,5.0,5.9,2.2,2.5
+S06078,Computer Science,UK,3.3,4.7,0.5,10.3,6.3
+S00108,Engineering,USA,3.72,2.9,5.0,6.4,4.8
+S01316,Engineering,Japan,2.97,4.6,2.8,6.9,3.1
+S08188,Mathematics,Germany,3.91,3.6,3.2,8.5,5.6
+S02754,Computer Science,Germany,3.4,2.7,4.1,8.2,3.9
+S09754,Physics,Italy,3.84,4.6,4.9,7.5,3.3
+S06232,Biology,USA,3.04,3.9,0.0,6.6,5.3
+S02877,Medicine,Brazil,2.32,3.2,0.0,6.6,5.8
+S05324,Mathematics,Netherlands,3.33,3.0,2.3,3.4,3.9
+S00800,Computer Science,Japan,4.0,4.9,1.3,4.8,3.0
+S03571,Computer Science,Brazil,3.58,2.7,4.2,1.5,4.7
+S02895,Biology,Italy,3.94,7.4,4.3,7.6,4.5
+S02928,Business,Italy,4.0,5.7,0.8,5.0,5.3
+S08179,Psychology,Canada,4.0,0.3,3.9,6.2,2.5
+S00972,Psychology,Australia,3.79,3.5,2.5,8.8,3.1
+S06688,Mathematics,India,4.0,0.0,5.0,5.4,1.7
+S08576,Engineering,Canada,3.81,5.7,6.8,5.9,1.6
+S02021,Biology,Canada,3.39,1.8,6.4,3.8,3.1
+S09055,Psychology,Netherlands,3.35,1.3,3.0,6.5,3.1
+S00953,Computer Science,UK,3.42,4.6,2.2,4.3,3.7
+S05360,Physics,Bangladesh,3.87,4.6,6.8,1.5,2.1
+S03858,Biology,Netherlands,3.65,3.2,3.8,7.2,4.8
+S05862,Engineering,Italy,4.0,4.3,4.1,3.6,4.2
+S03146,Biology,Canada,4.0,2.3,4.5,2.4,1.2
+S03306,Mathematics,France,4.0,1.3,2.1,9.8,5.6
+S03007,Physics,Germany,4.0,2.9,5.2,6.2,2.2
+S09002,Business,Germany,3.87,4.7,1.7,6.8,5.5
+S07771,Physics,India,4.0,4.5,2.6,4.8,2.6
+S07439,Engineering,Bangladesh,2.95,1.7,7.4,5.2,2.7
+S07943,Mathematics,Italy,3.26,6.1,0.0,5.6,5.7
+S09239,Mathematics,Japan,3.64,4.7,5.4,8.3,3.8
+S01057,Psychology,Germany,4.0,2.8,5.3,4.4,3.8
+S03155,Business,Italy,2.99,5.3,1.2,6.5,5.3
+S03788,Computer Science,UK,3.41,5.7,6.0,9.3,3.7
+S09190,Computer Science,Australia,4.0,8.6,5.0,3.9,2.1
+S07826,Economics,Japan,4.0,6.4,4.5,6.4,5.4
+S07540,Computer Science,Japan,2.98,3.0,4.0,9.2,5.7
+S07232,Engineering,Germany,4.0,4.5,3.0,4.9,2.4
+S00765,Mathematics,Australia,4.0,5.4,2.7,6.6,3.4
+S05020,Engineering,UK,3.45,2.6,3.8,4.3,3.6
+S04904,Mathematics,Brazil,3.71,4.5,4.7,5.9,2.7
+S08094,Mathematics,Japan,3.62,4.3,3.0,4.9,4.2
+S06844,Mathematics,Netherlands,3.63,4.1,4.3,3.4,3.4
+S02166,Medicine,UK,2.96,8.0,0.1,6.4,5.9
+S01863,Business,Canada,4.0,5.5,2.3,4.6,4.1
+S07851,Engineering,USA,4.0,4.4,6.5,7.4,4.9
+S09124,Psychology,USA,3.71,4.5,2.8,6.1,4.9
+S02341,Physics,Canada,4.0,6.0,4.2,6.0,4.4
+S05528,Computer Science,Brazil,3.91,4.4,0.0,4.1,3.9
+S06744,Biology,Canada,2.91,7.8,0.0,3.4,3.6
+S04004,Biology,Brazil,3.81,5.3,3.0,8.0,4.3
+S01124,Business,South Korea,3.45,2.8,5.3,6.0,3.8
+S08710,Mathematics,India,2.91,1.6,2.5,7.0,3.8
+S04050,Physics,India,3.23,0.0,2.6,6.1,2.8
+S07641,Business,Japan,2.97,2.2,5.8,6.7,2.2
+S00766,Computer Science,Netherlands,3.0,4.4,1.1,6.1,5.3
+S02345,Physics,Japan,3.01,5.9,4.1,2.9,3.0
+S04072,Engineering,India,2.89,4.3,2.2,6.4,6.7
+S07217,Physics,Canada,3.56,4.5,2.0,7.4,5.0
+S04217,Physics,Netherlands,4.0,3.1,3.8,7.0,3.5
+S07953,Mathematics,India,3.54,3.2,0.0,5.0,4.5
+S05971,Business,Bangladesh,3.71,6.0,4.7,4.0,2.0
+S03351,Psychology,India,3.52,2.3,4.2,8.4,4.1
+S04696,Medicine,UK,3.04,5.9,4.1,6.5,4.6
+S03400,Mathematics,Canada,3.72,3.1,3.5,2.7,2.9
+S04082,Physics,Japan,3.92,4.8,1.7,3.3,3.6
+S09150,Computer Science,Bangladesh,3.44,4.6,2.5,5.5,5.1
+S01225,Economics,Germany,3.62,3.7,3.4,6.6,5.1
+S06293,Medicine,Brazil,4.0,8.1,0.0,7.2,4.4
+S03123,Engineering,Australia,3.78,2.9,1.5,4.9,5.5
+S00511,Business,Germany,3.38,0.5,0.3,7.8,5.2
+S05795,Computer Science,USA,3.44,5.6,4.1,2.9,3.1
+S08182,Law,Italy,3.96,1.1,2.4,3.1,3.1
+S09418,Law,USA,3.66,4.1,2.6,4.3,3.2
+S00097,Economics,Bangladesh,4.0,1.6,3.2,1.7,1.3
+S06682,Computer Science,Germany,4.0,2.6,2.0,3.2,4.0
+S01513,Biology,Canada,3.1,4.7,6.8,4.8,2.7
+S08792,Mathematics,Australia,3.66,4.4,0.0,6.3,4.1
+S00120,Business,Bangladesh,4.0,3.1,5.0,3.7,3.7
+S07792,Law,Brazil,3.57,2.6,3.0,4.9,4.8
+S06518,Economics,Bangladesh,4.0,5.5,2.2,2.0,4.9
+S00034,Medicine,South Korea,3.41,3.8,0.0,5.4,4.9
+S07888,Mathematics,Germany,3.13,2.8,5.6,3.2,3.8
+S06831,Mathematics,UK,4.0,0.0,2.9,4.1,1.3
+S05422,Mathematics,Canada,3.18,2.0,0.0,5.8,4.1
+S01069,Business,Japan,3.66,4.6,1.5,3.7,3.0
+S01348,Psychology,Germany,4.0,5.9,3.3,5.8,2.7
+S04748,Mathematics,Canada,2.93,6.6,1.8,6.7,5.7
+S06006,Economics,Brazil,4.0,5.2,0.8,5.5,4.5
+S06040,Engineering,USA,3.74,4.4,5.8,8.6,3.7
+S03818,Engineering,Brazil,3.06,0.0,4.8,9.4,3.5
+S08447,Computer Science,Italy,4.0,7.8,4.3,6.1,2.9
+S05270,Biology,France,4.0,1.8,2.1,6.4,3.3
+S06898,Physics,UK,3.51,5.5,3.9,4.2,2.7
+S05310,Medicine,India,3.96,4.4,5.3,5.9,1.0
+S00032,Biology,France,4.0,4.6,0.0,8.5,4.9
+S05675,Physics,South Korea,3.21,5.8,5.0,2.9,3.7
+S04387,Business,India,3.13,2.0,5.1,6.1,1.7
+S00030,Business,Japan,3.96,1.9,2.7,3.2,1.9
+S04203,Mathematics,Netherlands,3.26,2.8,1.5,4.7,3.0
+S07508,Business,Bangladesh,3.33,5.4,2.2,4.3,3.2
+S00736,Business,USA,3.58,5.8,1.9,5.6,5.3
+S02068,Engineering,Canada,4.0,3.5,2.6,2.8,2.5
+S00107,Computer Science,South Korea,4.0,3.6,0.7,7.3,3.3
+S09645,Law,France,3.23,4.4,3.3,10.4,4.8
+S08895,Physics,Germany,3.82,2.5,1.7,5.8,1.0
+S08021,Biology,South Korea,3.17,2.4,3.7,5.4,2.4
+S02233,Business,Australia,2.47,6.9,3.6,5.1,4.2
+S00994,Mathematics,India,3.4,2.6,2.8,5.3,5.1
+S09413,Computer Science,France,3.51,2.5,3.7,6.5,4.9
+S07059,Psychology,Netherlands,4.0,5.9,0.5,6.6,6.5
+S06790,Medicine,Canada,3.76,4.3,2.3,6.8,4.7
+S00361,Law,Italy,4.0,0.4,1.8,5.2,4.0
+S00305,Biology,Italy,3.44,0.2,3.6,5.2,6.3
+S02628,Economics,South Korea,4.0,4.6,5.4,7.6,1.1
+S08966,Economics,Netherlands,2.49,7.0,3.3,8.0,3.6
+S04514,Business,Bangladesh,3.47,5.5,2.9,5.9,4.2
+S05911,Psychology,USA,3.52,2.1,4.5,4.9,2.4
+S08314,Engineering,Japan,3.62,1.3,3.0,3.6,1.2
+S03101,Law,India,2.98,2.5,4.5,6.2,5.0
+S05704,Law,Bangladesh,3.91,1.8,6.4,2.1,1.1
+S03899,Psychology,South Korea,3.65,1.2,5.4,5.1,3.4
+S05441,Psychology,UK,3.73,6.4,3.9,7.3,4.2
+S07931,Business,Japan,3.18,3.4,1.4,6.3,5.8
+S00622,Physics,Australia,3.72,7.1,3.3,7.9,6.2
+S07236,Law,Italy,4.0,4.2,0.0,3.1,5.3
+S02499,Computer Science,Bangladesh,3.86,5.3,5.5,4.4,3.2
+S00714,Business,Australia,3.49,3.6,2.6,6.4,4.0
+S08404,Law,Germany,3.64,6.6,0.7,7.2,6.9
+S02856,Biology,Italy,3.51,5.0,2.8,1.6,6.2
+S04270,Law,Canada,3.95,2.0,4.6,5.7,4.8
+S02909,Mathematics,Germany,3.73,4.2,5.2,10.4,5.9
+S08081,Psychology,Brazil,3.45,5.0,1.3,3.9,2.6
+S04517,Psychology,Canada,3.33,4.8,3.5,11.4,5.0
+S01262,Mathematics,Canada,3.83,4.7,4.2,3.1,3.7
+S03161,Business,Netherlands,3.61,1.5,2.1,4.9,3.9
+S00971,Business,Japan,4.0,5.9,1.5,1.6,1.5
+S03913,Law,Australia,4.0,5.3,4.7,7.3,3.4
+S05199,Engineering,UK,3.74,5.9,2.2,4.7,2.6
+S08847,Business,Germany,3.77,4.5,4.7,5.5,4.4
+S00260,Biology,South Korea,4.0,1.8,2.0,6.9,5.4
+S03791,Biology,Netherlands,3.87,4.5,5.1,5.6,3.6
+S09203,Physics,UK,3.45,5.1,5.0,4.6,4.8
+S00488,Physics,Australia,3.57,2.3,3.6,5.3,4.4
+S07908,Law,Italy,3.99,4.1,3.5,3.5,1.8
+S00519,Mathematics,Canada,3.8,6.6,4.8,2.5,3.4
+S08343,Biology,Italy,4.0,4.8,2.5,7.6,2.8
+S00312,Engineering,Japan,4.0,2.5,0.0,3.6,4.7
+S03232,Physics,Bangladesh,3.27,4.1,0.0,2.3,3.3
+S07933,Business,UK,4.0,1.5,2.0,7.9,3.0
+S07458,Economics,India,3.93,4.6,1.9,7.3,5.3
+S09784,Engineering,Netherlands,3.69,2.4,2.8,6.0,4.1
+S05184,Engineering,India,3.7,3.3,3.3,7.0,5.1
+S08077,Engineering,Japan,3.57,3.2,0.0,1.6,5.8
+S06502,Physics,India,2.97,6.6,3.4,7.0,3.9
+S06791,Physics,USA,3.7,6.9,3.9,8.2,4.7
+S07773,Business,Germany,3.6,6.9,2.3,6.3,5.3
+S02738,Physics,Germany,3.38,7.8,3.4,8.2,4.7
+S07842,Medicine,Australia,3.72,4.7,2.6,9.3,4.0
+S06262,Computer Science,USA,4.0,0.0,4.3,7.4,4.1
+S08206,Biology,Germany,3.11,3.9,3.8,8.1,4.9
+S01248,Engineering,Japan,3.56,0.0,1.4,5.9,5.4
+S09336,Law,Australia,3.32,3.7,7.6,6.1,3.5
+S04195,Biology,Italy,2.78,3.9,3.8,5.2,4.2
+S08001,Psychology,Brazil,3.05,7.8,4.2,8.9,4.9
+S07378,Mathematics,Germany,3.65,4.7,5.1,8.4,4.4
+S03435,Business,Netherlands,4.0,2.9,3.1,5.4,3.6
+S05382,Medicine,Brazil,3.31,1.0,3.1,6.2,3.9
+S00959,Mathematics,USA,3.95,3.0,3.6,6.7,3.3
+S00417,Mathematics,Germany,4.0,1.3,3.3,5.9,4.4
+S05742,Engineering,Australia,3.49,5.4,2.0,3.4,3.3
+S06728,Law,South Korea,3.75,4.4,6.1,6.2,3.0
+S04382,Computer Science,UK,3.77,2.8,2.7,6.6,4.3
+S05197,Biology,USA,4.0,5.6,0.1,2.8,4.7
+S01113,Business,USA,3.88,4.2,3.5,5.8,6.0
+S02689,Business,Canada,3.82,0.9,0.0,6.3,4.0
+S06473,Business,Brazil,3.54,2.0,1.4,5.9,3.3
+S08820,Medicine,Canada,3.96,3.7,1.3,6.7,5.1
+S07808,Biology,France,3.62,2.7,3.9,5.2,2.5
+S03411,Physics,Bangladesh,3.51,4.7,0.0,8.8,3.1
+S00081,Physics,Canada,3.41,9.3,4.0,5.5,5.7
+S04614,Engineering,Australia,3.41,7.1,3.6,7.0,4.3
+S01374,Mathematics,Bangladesh,2.93,1.9,3.2,7.0,4.5
+S01510,Business,Japan,4.0,2.4,2.5,3.4,4.8
+S06443,Computer Science,Australia,3.68,5.3,1.1,5.2,6.0
+S03071,Biology,Brazil,3.44,0.0,2.1,8.1,5.8
+S03016,Medicine,Netherlands,4.0,7.2,4.2,3.5,3.9
+S04823,Mathematics,Canada,3.43,5.3,2.8,7.7,3.2
+S07822,Physics,Japan,3.58,4.9,2.1,8.1,5.5
+S00093,Computer Science,Italy,3.2,1.4,1.8,5.0,4.1
+S09421,Law,Bangladesh,3.84,5.1,0.1,3.8,2.8
+S06600,Computer Science,Bangladesh,4.0,7.2,0.4,4.5,5.4
+S04443,Mathematics,India,4.0,2.7,1.1,3.3,3.8
+S07602,Economics,Brazil,3.73,7.2,2.1,6.2,3.7
+S03835,Medicine,Germany,3.2,6.0,0.0,5.0,4.4
+S09702,Medicine,Netherlands,4.0,3.2,1.2,7.5,2.9
+S04322,Physics,South Korea,3.51,7.4,2.1,7.5,4.8
+S03394,Biology,India,3.28,3.7,6.5,6.6,5.1
+S04752,Computer Science,South Korea,3.71,5.4,2.8,4.3,4.4
+S07229,Psychology,Germany,3.77,5.4,1.9,3.3,3.0
+S09191,Mathematics,Germany,3.53,2.0,5.5,7.4,3.2
+S02361,Business,UK,3.59,6.2,4.0,5.1,3.0
+S01148,Medicine,Bangladesh,3.18,5.2,5.0,1.5,2.8
+S05666,Law,Australia,2.75,6.3,2.9,6.4,5.5
+S08075,Psychology,Germany,2.28,3.6,6.1,7.8,3.6
+S04943,Psychology,India,3.8,4.1,5.0,6.3,3.7
+S03663,Mathematics,France,4.0,4.7,0.6,8.3,3.7
+S01563,Physics,Brazil,3.23,0.0,1.7,4.0,5.1
+S04113,Psychology,USA,4.0,5.0,1.8,6.1,5.1
+S09050,Economics,Netherlands,4.0,3.0,3.7,2.1,2.2
+S09276,Computer Science,Italy,2.59,7.9,2.6,6.9,5.7
+S08538,Business,Japan,4.0,3.1,2.8,4.2,3.4
+S00795,Economics,Brazil,3.29,3.2,2.9,7.4,4.1
+S05854,Law,Australia,3.27,8.5,5.1,8.8,3.8
+S07619,Economics,Germany,3.05,3.1,4.2,7.6,5.2
+S01594,Economics,Italy,4.0,6.1,0.3,5.4,3.8
+S07418,Mathematics,Australia,3.41,3.8,1.3,4.7,4.2
+S05267,Psychology,USA,4.0,3.7,4.1,5.2,2.5
+S07147,Psychology,Canada,4.0,1.5,5.2,2.9,1.0
+S00089,Law,Netherlands,3.12,3.6,3.2,5.2,4.7
+S08695,Psychology,Bangladesh,3.37,6.8,3.6,2.5,2.7
+S09732,Business,France,3.72,3.1,1.3,5.4,3.9
+S09446,Physics,USA,3.11,3.9,2.2,8.2,2.5
+S06754,Physics,Germany,3.78,7.9,1.1,3.4,4.9
+S03502,Mathematics,Netherlands,4.0,7.3,0.0,5.0,5.0
+S02234,Law,Netherlands,3.95,2.5,4.2,5.7,3.8
+S02803,Mathematics,Australia,4.0,5.2,2.6,4.7,4.8
+S04424,Law,India,4.0,5.7,5.5,4.8,3.6
+S05663,Medicine,Italy,3.55,5.0,2.0,4.2,5.0
+S07170,Business,Italy,3.88,5.9,3.9,4.3,4.8
+S08337,Engineering,South Korea,2.91,3.5,2.6,6.7,6.3
+S02148,Economics,Italy,3.34,6.4,5.5,5.0,4.1
+S07969,Psychology,Australia,3.33,1.1,1.0,7.4,7.1
+S06551,Economics,France,4.0,4.9,2.9,7.1,4.6
+S07643,Physics,Japan,3.54,3.7,3.5,5.6,2.4
+S06164,Business,Italy,3.5,0.2,6.5,4.9,3.4
+S01495,Business,USA,4.0,2.0,4.3,5.4,5.1
+S07696,Engineering,UK,3.94,6.9,2.8,5.0,4.7
+S07094,Biology,Germany,4.0,8.1,4.8,6.9,3.3
+S01409,Business,South Korea,3.52,3.6,1.9,8.0,5.9
+S06691,Economics,UK,3.53,1.5,2.7,6.8,5.3
+S03401,Business,France,3.41,5.9,2.4,5.6,4.2
+S00109,Biology,India,3.86,4.3,4.0,9.2,4.5
+S05636,Biology,France,4.0,3.4,6.6,4.5,2.1
+S08482,Mathematics,Italy,3.8,3.8,2.7,7.9,3.2
+S06604,Psychology,Brazil,4.0,4.2,7.7,6.6,3.0
+S01091,Psychology,South Korea,4.0,2.3,0.0,4.7,2.2
+S05560,Business,Italy,3.98,5.4,2.1,3.6,3.0
+S09412,Economics,Australia,3.25,3.4,1.2,5.8,4.6
+S08143,Engineering,India,3.12,1.0,7.2,6.6,3.4
+S08664,Law,Japan,4.0,3.2,1.2,3.4,4.3
+S06596,Engineering,USA,4.0,2.5,3.3,6.8,4.8
+S00624,Computer Science,France,4.0,1.1,3.9,5.8,1.0
+S06871,Physics,Netherlands,3.98,0.1,3.8,4.2,3.2
+S04814,Psychology,Germany,3.46,4.0,2.2,7.5,5.6
+S06553,Psychology,USA,3.57,3.9,1.9,2.8,5.6
+S07530,Business,France,2.69,4.8,0.8,5.8,4.0
+S05796,Psychology,Italy,3.92,4.3,2.4,6.3,4.2
+S07437,Psychology,Italy,3.5,6.6,5.1,5.2,2.7
+S04218,Engineering,Brazil,3.81,5.7,5.8,5.4,1.9
+S05941,Computer Science,USA,3.27,6.0,0.9,3.8,4.5
+S08501,Psychology,Netherlands,4.0,4.2,1.3,6.6,5.6
+S06429,Physics,Brazil,4.0,6.7,1.7,5.9,5.2
+S06827,Psychology,Netherlands,2.71,3.4,7.2,7.9,3.1
+S04131,Psychology,Canada,4.0,5.1,2.8,8.3,4.4
+S07802,Economics,Germany,3.33,6.1,0.2,5.4,5.8
+S07754,Biology,Canada,3.34,2.6,2.5,5.3,3.9
+S04722,Mathematics,Brazil,4.0,3.8,1.7,4.2,2.0
+S01651,Computer Science,France,4.0,4.9,2.5,5.2,2.4
+S04141,Medicine,Brazil,3.94,5.2,4.2,5.6,2.8
+S01618,Business,USA,3.63,5.8,2.7,6.5,2.8
+S02030,Computer Science,Netherlands,3.78,3.6,2.0,4.7,3.0
+S08518,Computer Science,Australia,3.81,3.4,5.3,7.8,3.5
+S04576,Medicine,India,3.49,4.9,3.4,5.8,4.1
+S03993,Psychology,Australia,3.18,3.4,5.9,6.2,5.2
+S07377,Biology,Australia,3.78,4.9,2.3,7.6,4.7
+S06150,Economics,India,3.61,4.7,4.9,5.6,2.9
+S04909,Biology,South Korea,3.51,1.1,3.2,7.0,3.0
+S05027,Computer Science,Netherlands,3.83,3.2,2.0,6.9,4.8
+S08261,Law,Netherlands,3.52,3.0,4.2,5.0,3.2
+S04732,Business,Bangladesh,3.86,3.5,0.6,5.2,4.4
+S07549,Biology,Germany,4.0,1.4,0.0,6.7,3.2
+S08135,Computer Science,Australia,3.33,5.2,6.5,5.8,2.3
+S01607,Law,South Korea,3.44,7.9,7.3,7.8,4.9
+S04774,Biology,France,3.7,2.5,0.4,3.2,5.0
+S08110,Psychology,Brazil,3.11,8.0,6.4,5.1,2.7
+S06952,Medicine,India,4.0,6.7,3.9,4.9,2.0
+S06005,Biology,Netherlands,3.65,6.1,2.9,6.0,4.5
+S07729,Computer Science,Germany,3.19,5.5,4.0,6.4,5.3
+S03542,Economics,South Korea,4.0,7.0,7.1,7.0,4.1
+S00389,Computer Science,South Korea,4.0,5.0,3.1,5.5,5.0
+S01795,Medicine,Germany,4.0,3.6,3.2,1.7,4.2
+S08732,Economics,Bangladesh,3.31,5.2,6.0,4.3,2.9
+S04920,Mathematics,France,3.92,5.6,5.7,5.7,5.9
+S05538,Physics,Netherlands,3.76,2.2,4.1,4.0,3.5
+S03873,Medicine,USA,3.16,3.3,4.9,5.9,4.8
+S08869,Physics,Brazil,3.95,2.5,2.4,4.9,4.5
+S02255,Mathematics,Germany,2.99,2.7,2.9,7.2,5.1
+S03413,Mathematics,Canada,4.0,2.9,0.0,4.4,3.4
+S05460,Economics,Canada,3.88,4.1,5.2,7.6,2.6
+S04956,Economics,UK,3.04,2.4,1.4,2.9,3.7
+S07397,Economics,Netherlands,4.0,2.6,3.3,5.9,4.7
+S05415,Medicine,Netherlands,3.84,4.8,4.0,4.6,5.4
+S07400,Physics,USA,4.0,2.0,4.5,5.5,4.3
+S07415,Computer Science,South Korea,4.0,4.3,1.5,7.2,4.9
+S09101,Mathematics,UK,4.0,4.0,3.8,4.9,1.7
+S04852,Computer Science,Germany,4.0,5.1,1.5,4.9,5.2
+S02026,Medicine,Germany,3.74,4.5,3.7,4.9,2.8
+S02616,Physics,India,3.61,2.3,5.0,7.2,4.9
+S07389,Physics,Brazil,3.72,0.0,0.5,7.0,4.7
+S02927,Business,Brazil,3.79,4.2,5.5,7.7,3.3
+S01122,Business,Netherlands,4.0,2.0,2.4,4.9,3.4
+S02911,Psychology,UK,3.97,0.8,1.6,4.8,2.9
+S08147,Medicine,UK,4.0,3.8,4.1,6.9,3.7
+S07384,Computer Science,Netherlands,3.32,1.2,5.0,5.5,3.4
+S03483,Biology,Bangladesh,3.39,4.7,2.7,7.2,6.0
+S00796,Computer Science,USA,4.0,6.9,5.3,4.3,4.8
+S01576,Medicine,Brazil,3.85,4.9,5.0,7.9,4.7
+S06177,Physics,Bangladesh,3.27,2.1,1.2,9.1,5.1
+S06267,Physics,South Korea,3.67,4.1,0.4,5.8,2.9
+S02459,Business,UK,4.0,2.4,4.8,3.9,3.6
+S03313,Computer Science,USA,4.0,4.5,2.6,5.4,1.8
+S01254,Law,Australia,3.72,3.8,2.3,6.5,2.5
+S06835,Biology,Japan,4.0,3.2,3.7,6.5,2.7
+S08795,Engineering,Netherlands,3.43,0.0,4.4,4.4,4.2
+S03838,Computer Science,Japan,4.0,4.3,2.6,8.4,4.1
+S04399,Engineering,Bangladesh,3.87,4.1,4.6,5.3,3.7
+S03596,Engineering,Canada,4.0,1.7,2.1,6.5,4.9
+S06622,Biology,Canada,3.88,0.0,3.7,5.9,4.9
+S08383,Computer Science,Japan,3.81,8.7,1.4,4.4,5.3
+S02125,Mathematics,Bangladesh,3.86,3.7,5.2,5.6,4.0
+S03239,Engineering,Brazil,3.66,3.2,2.3,6.9,4.2
+S05404,Medicine,UK,4.0,3.4,2.5,5.4,1.0
+S05999,Psychology,Bangladesh,4.0,1.3,0.0,4.4,2.8
+S05939,Medicine,Japan,4.0,2.8,3.5,8.5,3.2
+S02046,Engineering,UK,4.0,3.7,5.4,8.0,3.3
+S01579,Physics,Brazil,3.4,4.2,3.4,7.9,4.8
+S00015,Computer Science,USA,2.93,6.1,2.1,2.9,3.4
+S02674,Law,Australia,3.39,3.0,2.0,2.4,5.6
+S07017,Engineering,Brazil,2.96,1.0,2.8,7.2,5.5
+S08721,Business,USA,2.96,3.5,6.8,10.0,5.6
+S08850,Economics,South Korea,4.0,3.0,0.0,6.3,3.4
+S04813,Business,Germany,4.0,5.9,1.1,3.0,4.6
+S01085,Biology,Italy,3.62,1.8,2.0,6.0,2.9
+S04984,Mathematics,Bangladesh,3.58,3.1,2.9,4.8,2.9
+S07156,Physics,USA,3.11,7.6,3.0,3.1,3.4
+S02885,Medicine,Australia,2.59,7.1,3.1,7.6,3.6
+S00334,Psychology,Netherlands,3.07,6.3,5.6,9.7,4.3
+S07205,Mathematics,UK,2.8,4.0,4.2,7.9,4.1
+S04368,Law,UK,3.11,5.2,5.7,7.5,4.3
+S03080,Computer Science,Netherlands,4.0,6.7,2.0,5.2,2.9
+S07204,Psychology,France,3.48,5.9,1.1,3.3,2.6
+S09910,Psychology,Italy,4.0,1.9,3.0,2.9,3.7
+S08865,Physics,Netherlands,3.75,8.1,4.8,4.7,2.9
+S00264,Computer Science,France,3.64,5.9,5.8,3.3,1.9
+S04338,Physics,Canada,3.36,5.6,4.8,6.7,5.0
+S08896,Psychology,Italy,4.0,2.1,2.3,5.3,3.6
+S08448,Mathematics,Brazil,3.84,4.6,3.2,8.2,3.7
+S05904,Biology,Brazil,4.0,2.8,2.8,2.8,3.7
+S01499,Engineering,Japan,4.0,3.9,1.5,7.7,4.4
+S04191,Physics,South Korea,4.0,6.5,1.6,5.7,5.8
+S07486,Economics,South Korea,3.34,3.1,5.0,4.9,4.2
+S09644,Biology,Australia,3.41,8.0,1.5,3.6,4.0
+S08311,Psychology,France,2.71,5.0,0.0,5.4,6.6
+S07591,Mathematics,South Korea,3.88,0.5,3.5,3.1,3.0
+S00501,Computer Science,France,4.0,3.7,1.2,3.8,4.0
+S09156,Mathematics,Germany,3.51,6.1,4.0,8.5,2.1
+S09415,Mathematics,UK,2.85,3.1,0.0,2.5,5.0
+S03096,Medicine,South Korea,4.0,1.2,1.2,5.5,2.7
+S04632,Medicine,UK,3.41,2.6,1.7,8.7,4.5
+S00368,Biology,Germany,3.64,6.8,5.3,7.1,4.2
+S04059,Biology,India,4.0,1.8,5.0,6.5,1.0
+S08175,Mathematics,India,3.86,2.3,5.9,5.2,2.6
+S04631,Medicine,Canada,3.08,5.2,0.0,3.9,3.7
+S06071,Physics,Japan,3.77,0.0,0.0,6.1,5.2
+S02665,Physics,Netherlands,3.84,9.2,2.4,5.9,1.8
+S01027,Physics,France,3.92,7.1,2.8,4.3,2.4
+S05909,Business,UK,4.0,2.8,5.1,4.3,1.9
+S05051,Medicine,Bangladesh,4.0,2.3,1.9,7.1,3.0
+S06329,Economics,Canada,4.0,5.5,3.5,7.6,4.2
+S09734,Medicine,Australia,3.32,3.4,4.3,6.0,1.9
+S01692,Medicine,Italy,4.0,3.2,2.0,8.2,3.3
+S00674,Law,USA,3.3,3.4,4.3,8.3,5.9
+S05573,Economics,France,3.42,7.8,3.4,5.3,6.1
+S05767,Psychology,France,3.75,6.3,1.9,6.1,4.9
+S05157,Computer Science,USA,3.83,1.3,2.7,3.6,5.2
+S00734,Business,Netherlands,2.2,5.9,3.3,10.6,5.4
+S03527,Medicine,France,3.14,0.0,4.6,7.9,4.9
+S00569,Business,India,3.6,7.4,0.6,4.4,2.3
+S09188,Computer Science,Germany,3.7,7.1,1.4,8.7,3.6
+S02923,Economics,Netherlands,3.7,3.3,2.0,4.1,3.2
+S07912,Physics,Canada,4.0,2.6,4.5,1.7,4.8
+S01559,Economics,Canada,4.0,2.7,1.7,3.1,1.9
+S00102,Medicine,India,3.66,0.7,4.2,5.2,2.9
+S03008,Biology,USA,2.95,3.4,4.2,5.8,5.1
+S07202,Medicine,Japan,3.75,5.1,0.0,4.9,3.8
+S00304,Mathematics,India,3.89,4.6,4.3,4.7,4.1
+S00077,Engineering,Australia,3.55,7.6,4.2,6.2,5.3
+S06755,Medicine,Brazil,2.57,5.4,2.6,9.7,4.0
+S08630,Physics,Brazil,3.55,3.6,4.9,7.2,5.0
+S01209,Biology,Australia,2.63,4.3,1.6,5.8,4.3
+S07743,Psychology,Bangladesh,3.66,4.7,0.0,5.2,5.6
+S08215,Mathematics,Australia,3.53,4.7,3.8,4.4,5.6
+S08945,Computer Science,Canada,3.58,2.1,7.6,5.9,1.7
+S08414,Physics,Netherlands,3.6,0.0,2.9,8.6,6.1
+S01776,Economics,Bangladesh,3.26,8.2,5.0,5.1,6.1
+S03474,Computer Science,Brazil,3.46,2.6,1.9,3.2,3.0
+S00484,Psychology,Netherlands,3.34,3.4,3.3,8.0,4.5
+S02190,Law,Australia,3.67,4.2,3.4,4.5,3.8
+S00347,Biology,Canada,3.7,2.0,4.5,5.8,2.5
+S05482,Economics,Australia,4.0,2.0,4.7,6.7,3.5
+S08362,Business,France,3.19,2.9,3.4,4.2,4.5
+S01473,Mathematics,Bangladesh,3.51,6.5,2.2,5.8,5.3
+S05101,Business,Australia,4.0,3.2,1.1,6.2,3.8
+S06766,Computer Science,Netherlands,4.0,2.6,5.7,3.2,1.3
+S08707,Physics,Australia,3.91,6.1,1.9,9.4,5.5
+S04930,Biology,Canada,3.76,2.4,3.0,7.0,2.7
+S06330,Biology,UK,4.0,6.0,1.9,2.8,1.7
+S02610,Medicine,Netherlands,4.0,3.3,4.2,6.5,3.4
+S00004,Physics,Australia,3.77,4.0,3.2,6.9,5.9
+S02214,Computer Science,Australia,3.58,5.6,4.6,3.2,2.1
+S04828,Physics,USA,4.0,2.1,3.3,4.7,3.4
+S00857,Engineering,UK,3.32,2.8,4.6,7.2,2.4
+S06978,Mathematics,South Korea,3.65,3.1,2.6,9.0,5.7
+S05886,Psychology,Australia,4.0,1.2,1.6,6.5,4.2
+S00625,Medicine,India,4.0,1.3,2.9,6.5,2.7
+S00291,Biology,South Korea,3.49,3.9,1.8,5.2,4.8
+S02019,Business,Brazil,4.0,2.1,0.0,5.7,3.1
+S00669,Psychology,UK,2.84,3.2,1.4,2.2,3.4
+S08922,Biology,Japan,3.83,8.6,1.0,4.9,4.4
+S08265,Engineering,France,3.18,3.1,2.3,5.5,4.2
+S09697,Law,Bangladesh,3.22,6.4,4.1,8.0,6.1
+S01632,Engineering,USA,2.82,4.3,5.3,3.8,4.1
+S05171,Business,USA,3.55,3.9,2.9,7.9,4.2
+S07206,Economics,UK,3.51,5.2,0.0,6.0,3.8
+S02523,Physics,USA,3.61,3.1,5.3,8.3,5.3
+S02216,Economics,Canada,3.18,0.0,1.9,9.0,4.3
+S06969,Physics,USA,3.69,1.0,4.2,5.5,3.1
+S06497,Engineering,Netherlands,3.94,5.7,3.6,6.2,3.3
+S06214,Physics,Australia,3.84,6.5,0.8,3.4,2.4
+S07033,Biology,Italy,3.88,6.8,6.3,6.1,2.4
+S07421,Medicine,USA,3.73,3.8,0.0,4.6,5.0
+S01108,Biology,UK,3.28,1.4,2.3,1.7,3.3
+S00451,Biology,South Korea,3.9,3.3,4.1,6.0,3.4
+S06290,Psychology,USA,3.64,5.6,3.1,7.7,5.2
+S09967,Computer Science,Canada,3.97,4.4,4.2,7.2,3.3
+S00136,Computer Science,Italy,4.0,6.8,5.0,6.4,3.1
+S01786,Medicine,UK,3.93,2.4,4.8,2.6,2.0
+S03405,Law,Australia,3.85,2.8,6.4,4.9,3.9
+S02907,Law,Bangladesh,2.84,2.8,1.4,8.8,6.2
+S08305,Medicine,Australia,3.78,8.6,5.7,5.9,2.3
+S07493,Medicine,Brazil,3.27,1.2,0.6,9.5,5.1
+S06101,Engineering,India,3.5,2.9,3.3,4.3,3.7
+S04505,Medicine,Bangladesh,3.08,0.0,0.0,9.5,6.4
+S05054,Medicine,Italy,3.57,6.7,0.0,6.8,4.5
+S05206,Mathematics,Netherlands,4.0,2.1,6.0,6.4,2.6
+S04081,Mathematics,Germany,4.0,4.4,2.6,4.4,2.8
+S06919,Physics,France,4.0,4.9,0.1,6.2,7.5
+S06803,Biology,Germany,3.24,4.3,3.9,7.5,2.5
+S05207,Business,Germany,4.0,5.1,6.3,6.1,2.6
+S00533,Medicine,UK,4.0,5.5,2.9,5.3,3.3
+S04831,Psychology,UK,4.0,7.7,0.9,4.5,3.7
+S04039,Business,Canada,4.0,5.3,5.1,7.2,2.5
+S04085,Psychology,Italy,4.0,5.0,3.3,6.0,5.2
+S03205,Physics,Brazil,3.78,6.5,4.8,4.2,2.1
+S07111,Biology,Germany,2.44,4.1,0.3,5.2,5.2
+S00331,Engineering,Germany,3.71,4.9,1.2,1.5,4.4
+S04958,Psychology,Italy,4.0,3.5,4.7,4.0,5.8
+S03034,Biology,South Korea,3.69,7.6,4.2,5.0,5.7
+S07685,Engineering,Canada,3.95,4.9,4.7,6.9,4.8
+S01598,Mathematics,Australia,4.0,0.0,3.1,7.4,4.5
+S09920,Physics,Australia,3.48,1.9,4.5,5.8,4.3
+S03598,Mathematics,Japan,4.0,2.6,5.3,5.7,1.8
+S09039,Computer Science,Australia,4.0,3.6,3.1,3.6,3.0
+S08002,Engineering,Brazil,2.78,1.2,1.5,8.1,6.0
+S00591,Economics,USA,3.88,4.4,3.6,3.2,3.9
+S00648,Physics,Australia,3.44,2.8,4.2,7.3,4.2
+S09103,Engineering,India,4.0,0.5,2.2,5.3,4.8
+S08016,Psychology,Italy,4.0,0.4,4.4,7.3,5.1
+S03772,Biology,USA,3.4,2.9,3.1,6.3,3.5
+S09040,Engineering,France,3.96,2.8,3.0,7.1,3.8
+S05083,Law,Canada,4.0,4.0,8.9,4.4,2.4
+S07883,Economics,France,4.0,3.9,5.4,5.1,2.2
+S09363,Business,Netherlands,3.54,4.5,4.0,5.2,4.0
+S04211,Physics,Italy,3.68,3.0,2.4,2.1,3.3
+S08835,Physics,USA,4.0,3.6,4.6,3.9,1.1
+S08700,Psychology,Netherlands,2.87,5.1,2.1,6.0,5.8
+S01796,Mathematics,Canada,3.23,3.4,5.3,3.5,2.1
+S02587,Medicine,Netherlands,3.37,2.9,5.6,4.4,2.6
+S08356,Law,Italy,4.0,4.8,5.4,2.5,2.2
+S02317,Mathematics,UK,4.0,2.1,2.3,6.4,3.1
+S04186,Mathematics,UK,4.0,2.8,4.4,6.1,2.3
+S08828,Biology,South Korea,4.0,1.7,5.2,5.1,3.0
+S07073,Law,Canada,3.19,5.4,2.2,5.2,2.8
+S05235,Mathematics,Brazil,3.8,5.3,1.4,6.5,3.9
+S08744,Engineering,Germany,4.0,4.0,4.2,6.2,4.7
+S08671,Economics,UK,4.0,4.7,0.0,3.9,4.6
+S04769,Business,South Korea,3.83,2.7,4.4,4.0,5.7
+S09973,Psychology,France,3.21,2.5,3.0,6.1,7.0
+S07145,Computer Science,Germany,3.97,4.2,2.2,6.0,4.5
+S02914,Business,Australia,4.0,7.3,2.6,1.0,3.0
+S09872,Computer Science,India,3.27,4.6,3.2,1.5,2.2
+S09894,Business,India,3.14,2.4,2.9,8.9,5.1
+S02076,Biology,Australia,3.8,4.9,2.4,4.9,5.0
+S04303,Mathematics,Canada,3.53,5.5,0.9,5.3,3.1
+S05823,Medicine,USA,3.62,3.5,4.5,4.4,3.0
+S02150,Biology,UK,3.03,5.5,2.1,6.2,3.4
+S00145,Biology,Bangladesh,3.7,5.5,0.6,5.5,4.6
+S04964,Business,Japan,3.79,5.6,0.0,5.2,4.0
+S08160,Mathematics,India,3.25,5.2,6.0,8.5,5.1
+S09031,Engineering,Australia,3.57,4.6,5.5,5.9,3.6
+S04776,Computer Science,USA,4.0,0.0,5.0,4.6,2.2
+S08934,Business,South Korea,3.17,4.7,2.8,7.1,3.2
+S07750,Law,Netherlands,4.0,1.7,2.3,4.3,3.1
+S09829,Economics,Bangladesh,4.0,5.3,5.3,4.6,5.0
+S09215,Computer Science,Bangladesh,3.8,0.3,0.5,5.7,3.5
+S06061,Economics,Canada,3.81,7.2,2.8,3.2,1.5
+S09476,Physics,Germany,4.0,1.6,1.9,2.6,2.5
+S06410,Biology,Bangladesh,3.4,2.6,1.3,5.9,4.4
+S03318,Physics,USA,3.61,3.0,1.6,4.1,2.6
+S07465,Law,Brazil,4.0,2.8,6.3,7.9,5.1
+S03062,Engineering,South Korea,4.0,6.8,6.4,6.7,3.2
+S01356,Engineering,Netherlands,2.58,2.6,5.4,8.9,4.6
+S04515,Computer Science,Australia,3.79,1.5,3.3,7.0,3.1
+S05506,Computer Science,Netherlands,4.0,1.1,3.5,3.3,2.1
+S05251,Engineering,Netherlands,3.21,4.6,3.1,8.0,4.3
+S04512,Engineering,Germany,4.0,0.0,1.0,5.9,1.9
+S01731,Economics,Australia,3.6,4.0,5.9,5.3,4.8
+S01759,Law,UK,4.0,5.6,3.9,8.6,4.3
+S06651,Physics,Japan,4.0,4.7,1.7,5.8,2.7
+S06647,Law,Italy,3.95,4.0,4.8,6.2,3.2
+S09861,Law,South Korea,3.96,6.6,0.0,9.9,6.4
+S04140,Physics,France,4.0,4.7,2.2,5.9,5.8
+S09394,Law,India,4.0,4.5,3.1,6.1,3.2
+S05124,Mathematics,Japan,3.65,6.5,2.5,3.7,3.2
+S00001,Law,Germany,3.81,7.6,2.1,3.9,4.8
+S01865,Law,France,4.0,3.6,3.0,5.4,4.7
+S00544,Business,Australia,3.98,3.7,1.8,5.8,4.3
+S00350,Medicine,Australia,3.4,3.8,1.5,7.9,5.9
+S06907,Engineering,India,3.01,3.3,4.5,10.6,3.7
+S09766,Biology,Japan,3.29,2.9,6.0,9.7,5.3
+S02524,Business,UK,3.16,4.2,0.0,5.1,2.4
+S03465,Mathematics,Brazil,3.5,4.9,2.3,7.6,4.3
+S00458,Mathematics,Australia,3.81,3.4,4.7,5.6,1.4
+S03024,Engineering,Japan,4.0,0.6,0.9,8.2,3.1
+S07262,Physics,UK,3.57,6.0,0.0,6.1,4.9
+S09516,Economics,Germany,3.56,3.4,6.1,3.9,2.5
+S07873,Computer Science,Germany,4.0,3.4,4.2,5.0,3.6
+S06626,Engineering,Australia,2.58,0.0,0.0,6.7,5.2
+S02535,Psychology,Brazil,3.62,3.4,7.2,6.1,4.7
+S00132,Engineering,India,3.61,6.9,3.3,8.8,5.9
+S03705,Computer Science,Bangladesh,3.8,5.4,3.6,6.9,3.8
+S01373,Mathematics,Canada,2.68,6.7,1.9,5.9,4.7
+S06201,Economics,South Korea,3.51,1.3,2.4,7.0,5.8
+S04857,Economics,Brazil,4.0,5.6,2.6,6.6,2.8
+S04713,Economics,South Korea,4.0,4.2,4.8,7.9,3.4
+S05545,Computer Science,Japan,4.0,4.0,5.3,3.8,4.2
+S01414,Physics,Italy,4.0,3.3,4.6,5.5,4.1
+S04114,Business,Germany,2.96,5.8,4.0,3.4,4.5
+S00656,Engineering,Bangladesh,4.0,2.8,4.6,3.9,1.0
+S08138,Medicine,France,3.85,5.7,3.6,6.6,3.4
+S04099,Physics,Brazil,3.61,5.8,2.3,5.9,7.1
+S00593,Business,Canada,3.82,1.6,2.7,5.6,2.9
+S08709,Computer Science,South Korea,4.0,5.5,8.2,4.7,2.6
+S03124,Biology,Canada,3.9,3.0,1.4,2.0,3.2
+S03048,Mathematics,France,4.0,5.4,0.3,3.8,3.1
+S03888,Mathematics,South Korea,3.69,2.5,0.0,6.5,4.9
+S05736,Biology,Japan,3.61,4.3,3.4,8.1,3.9
+S02185,Physics,Brazil,3.12,1.5,2.7,4.3,3.5
+S02146,Medicine,Brazil,4.0,7.1,0.0,2.7,4.8
+S07048,Computer Science,Japan,3.69,1.3,3.7,4.2,3.8
+S03106,Business,South Korea,3.71,6.7,4.1,2.8,5.1
+S09234,Engineering,Bangladesh,3.93,6.0,2.5,4.3,3.8
+S09097,Law,USA,3.37,5.4,3.7,8.2,4.3
+S02770,Economics,India,3.08,5.0,5.1,3.5,4.1
+S05222,Medicine,Brazil,3.66,3.8,4.5,6.8,4.8
+S05834,Physics,France,3.99,4.2,1.8,3.1,5.9
+S01733,Medicine,India,3.54,2.7,4.6,5.5,3.2
+S00266,Physics,South Korea,3.49,7.3,4.1,5.6,3.4
+S05145,Mathematics,Japan,4.0,0.6,3.0,3.6,3.6
+S08268,Business,South Korea,3.58,0.4,2.6,6.0,4.7
+S03938,Computer Science,Italy,2.99,2.5,5.3,3.2,2.3
+S00762,Biology,Brazil,3.68,4.5,2.5,6.8,5.9
+S07221,Mathematics,France,4.0,3.3,0.0,6.5,3.0
+S08440,Psychology,India,4.0,5.2,6.9,6.4,3.2
+S03258,Physics,Bangladesh,3.64,6.1,2.7,4.0,2.7
+S04339,Computer Science,France,2.63,6.1,3.6,4.9,4.8
+S04363,Business,India,4.0,5.9,2.8,4.7,2.2
+S00317,Business,Germany,4.0,5.0,2.3,4.1,3.7
+S08070,Business,Germany,3.76,3.4,1.0,3.7,4.0
+S01852,Medicine,Japan,3.78,7.3,2.3,7.5,4.5
+S02485,Psychology,Australia,2.71,3.8,2.7,6.5,4.7
+S09874,Economics,Australia,4.0,1.8,0.0,7.5,3.4
+S09575,Biology,Netherlands,3.73,2.2,4.8,9.3,5.1
+S01079,Computer Science,Japan,4.0,2.3,6.0,8.5,3.7
+S08359,Law,Australia,2.74,1.4,7.4,6.7,2.8
+S07334,Law,Netherlands,3.85,0.0,2.1,6.9,4.6
+S01072,Law,UK,3.16,1.9,6.8,8.0,6.1
+S00104,Computer Science,Germany,3.27,3.1,4.3,7.6,5.4
+S05749,Computer Science,USA,3.58,1.9,3.9,6.8,4.4
+S01419,Business,Bangladesh,3.82,4.6,2.5,8.9,7.1
+S01659,Engineering,France,3.2,2.0,2.5,6.6,2.7
+S05285,Business,Germany,4.0,1.5,0.0,5.1,4.6
+S01150,Biology,India,3.97,5.9,4.4,1.9,1.9
+S07151,Law,USA,4.0,2.2,4.9,5.2,4.9
+S01569,Computer Science,South Korea,2.89,5.9,3.3,3.9,4.4
+S01088,Physics,Canada,4.0,1.2,6.2,3.6,3.2
+S06086,Economics,UK,3.83,5.3,2.9,6.1,4.7
+S08675,Economics,USA,2.77,4.7,2.8,8.2,7.0
+S08342,Economics,Netherlands,3.9,1.5,5.0,1.0,1.2
+S07812,Medicine,Bangladesh,3.6,5.5,6.4,6.5,2.8
+S06085,Physics,Netherlands,3.27,3.5,0.5,5.5,6.5
+S08774,Medicine,Australia,3.96,1.7,0.0,5.5,5.0
+S08758,Psychology,Netherlands,4.0,6.5,3.3,5.7,2.0
+S01693,Engineering,Italy,3.86,2.2,5.7,9.1,4.8
+S04735,Mathematics,Japan,3.58,4.5,2.5,6.3,5.9
+S03388,Physics,UK,3.96,3.3,4.2,5.3,1.7
+S03647,Mathematics,Brazil,4.0,2.6,1.5,8.3,5.4
+S01684,Psychology,India,3.93,3.0,3.8,3.5,3.1
+S00009,Biology,Japan,3.72,4.7,5.5,5.6,5.3
+S06063,Engineering,France,3.82,5.6,4.6,2.9,1.5
+S06517,Physics,Brazil,4.0,3.1,1.1,6.5,4.1
+S04124,Computer Science,Bangladesh,4.0,4.2,3.1,3.7,4.1
+S08730,Law,Canada,3.86,3.8,2.3,3.8,3.5
+S06046,Psychology,South Korea,3.74,4.8,2.2,6.5,4.4
+S00568,Biology,Canada,3.25,4.6,0.0,4.2,5.6
+S09162,Mathematics,South Korea,3.76,4.1,6.1,6.6,3.2
+S01804,Economics,Brazil,2.91,5.1,3.9,7.8,6.0
+S08502,Law,Canada,3.44,1.5,0.9,5.3,4.7
+S04901,Business,UK,3.3,3.5,0.0,8.6,4.5
+S01600,Mathematics,Netherlands,3.83,4.8,0.0,3.7,4.6
+S07932,Psychology,Germany,3.89,3.4,2.7,8.1,4.1
+S09548,Medicine,UK,4.0,6.5,3.8,8.6,1.1
+S02824,Computer Science,Netherlands,2.81,3.0,1.1,8.6,5.3
+S05468,Computer Science,Italy,4.0,4.9,2.1,6.3,3.4
+S03530,Computer Science,Bangladesh,3.66,5.7,1.9,1.6,3.2
+S08684,Psychology,South Korea,4.0,5.1,2.3,4.5,2.6
+S01156,Economics,South Korea,4.0,2.7,5.0,8.6,3.2
+S06548,Computer Science,Japan,2.94,5.3,0.0,10.8,4.2
+S09089,Mathematics,Canada,3.47,4.4,5.6,2.7,3.7
+S07621,Engineering,India,3.16,4.9,0.7,6.0,4.3
+S08297,Biology,Japan,4.0,2.3,4.1,6.7,5.3
+S04541,Economics,UK,3.23,5.9,1.1,5.8,6.3
+S09135,Computer Science,India,3.27,3.6,4.3,3.8,2.3
+S06483,Biology,USA,3.68,2.8,0.8,5.3,5.2
+S05827,Business,Germany,3.46,3.5,4.9,5.3,5.1
+S01191,Economics,Netherlands,4.0,3.9,4.7,3.5,4.9
+S07445,Law,South Korea,3.22,0.0,6.7,3.0,2.1
+S08521,Economics,UK,3.33,5.9,0.8,4.2,6.8
+S00961,Engineering,Brazil,3.52,1.7,3.5,3.4,5.3
+S07455,Computer Science,Canada,3.55,4.1,0.0,3.5,4.6
+S00037,Psychology,Italy,3.48,6.0,2.5,5.9,3.0
+S07517,Psychology,USA,4.0,1.6,4.0,1.5,4.4
+S07645,Psychology,Netherlands,4.0,4.6,4.1,5.6,2.4
+S04439,Economics,France,3.28,3.2,4.3,5.6,4.4
+S06162,Law,Brazil,4.0,4.1,2.2,4.1,3.5
+S07745,Engineering,Australia,4.0,0.4,0.2,2.5,3.2
+S09588,Medicine,Italy,3.9,4.0,4.4,6.7,4.6
+S08120,Economics,Netherlands,3.75,4.2,4.0,4.3,4.4
+S06968,Medicine,Australia,4.0,3.5,0.1,2.6,4.4
+S05719,Psychology,South Korea,3.79,6.2,4.6,3.4,3.0
+S00578,Business,Bangladesh,3.96,2.9,5.7,8.9,4.0
+S09834,Economics,USA,3.79,3.4,1.8,5.3,4.4
+S04103,Engineering,Brazil,4.0,2.8,3.8,4.1,1.9
+S07647,Biology,Netherlands,2.72,3.9,3.9,1.0,3.5
+S04152,Psychology,Brazil,4.0,3.7,2.1,8.4,3.7
+S03131,Psychology,Bangladesh,3.19,4.8,2.3,9.0,6.5
+S04891,Physics,Italy,3.4,3.3,4.9,5.9,4.4
+S09976,Mathematics,South Korea,3.98,5.7,0.7,2.4,4.0
+S07472,Business,Brazil,4.0,4.3,2.8,4.0,3.2
+S01834,Economics,Netherlands,3.89,6.2,2.8,4.7,4.1
+S09149,Law,India,3.31,1.6,3.1,7.8,4.3
+S04892,Medicine,India,3.26,6.2,4.4,6.8,5.8
+S02288,Computer Science,Italy,3.87,2.8,2.1,6.0,3.2
+S01331,Economics,Netherlands,4.0,3.5,0.5,7.6,6.7
+S02772,Business,Italy,2.9,4.2,1.1,6.7,4.4
+S03687,Mathematics,Italy,4.0,2.4,0.9,8.2,4.0
+S08284,Engineering,South Korea,3.08,4.8,2.9,5.5,4.8
+S05929,Computer Science,India,3.88,5.9,4.0,8.9,4.5
+S00638,Medicine,Japan,3.48,5.1,3.1,7.8,7.5
+S00048,Psychology,Germany,4.0,3.4,3.2,3.2,2.8
+S02603,Medicine,Japan,4.0,6.1,1.0,3.4,1.7
+S01966,Psychology,Bangladesh,2.94,1.9,4.1,6.5,4.4
+S02169,Economics,USA,3.53,3.6,2.9,5.7,3.3
+S05050,Engineering,Germany,3.83,3.2,7.0,6.4,2.4
+S03335,Biology,Germany,3.9,3.9,2.5,4.3,4.8
+S03020,Medicine,France,3.86,4.6,3.7,6.2,3.6
+S08765,Computer Science,France,4.0,5.2,4.7,4.9,1.1
+S09177,Psychology,Netherlands,4.0,2.5,2.2,2.5,6.0
+S01361,Biology,Japan,4.0,5.0,3.5,1.4,2.1
+S05799,Medicine,South Korea,3.55,6.2,2.1,3.4,4.5
+S09401,Engineering,Netherlands,3.97,0.8,1.5,7.8,4.5
+S03252,Engineering,Italy,3.53,5.2,0.0,7.1,6.0
+S06301,Computer Science,Italy,3.72,5.8,3.9,7.2,5.1
+S02252,Economics,Netherlands,4.0,4.8,1.2,2.5,4.4
+S06028,Biology,Italy,2.75,4.8,2.2,9.3,6.0
+S01176,Engineering,Brazil,3.23,0.5,3.3,8.6,3.8
+S08800,Physics,Brazil,4.0,6.5,3.3,8.4,4.7
+S03280,Law,Bangladesh,4.0,7.7,1.5,6.5,6.0
+S02974,Physics,Canada,4.0,5.2,2.9,8.9,4.9
+S03397,Physics,Germany,4.0,2.0,2.2,5.2,2.6
+S06940,Physics,France,3.08,3.9,2.8,5.8,6.9
+S00966,Business,Netherlands,4.0,0.8,5.3,5.9,3.1
+S08575,Mathematics,Netherlands,3.59,2.8,3.8,8.8,4.5
+S00743,Engineering,Netherlands,2.95,2.6,2.5,8.2,4.8
+S07515,Engineering,Netherlands,3.29,3.4,0.2,5.7,3.7
+S03315,Psychology,Bangladesh,3.78,2.4,2.3,7.2,4.7
+S04899,Engineering,India,4.0,7.2,4.8,5.9,4.4
+S09341,Psychology,India,3.01,5.1,3.7,9.5,4.6
+S04673,Psychology,Japan,4.0,7.2,2.9,3.6,2.7
+S08619,Economics,Netherlands,3.12,5.2,5.6,8.3,5.7
+S01218,Computer Science,South Korea,3.77,2.4,3.2,7.7,3.7
+S04398,Biology,Germany,2.88,4.0,1.9,7.8,7.1
+S06081,Medicine,Netherlands,4.0,1.3,5.8,4.1,1.0
+S02615,Physics,Netherlands,4.0,5.6,4.0,3.7,3.4
+S02621,Economics,Bangladesh,3.29,7.0,3.8,7.0,4.9
+S08715,Psychology,UK,4.0,5.8,1.0,5.4,2.5
+S07283,Mathematics,UK,4.0,4.6,3.7,5.4,3.2
+S03380,Economics,Netherlands,3.2,5.0,0.3,5.1,4.7
+S07302,Business,Italy,2.9,5.3,3.6,7.3,6.1
+S09858,Medicine,UK,3.75,3.7,1.3,4.7,3.9
+S05606,Mathematics,South Korea,3.51,4.9,5.2,7.2,2.4
+S09814,Physics,Bangladesh,4.0,4.5,4.7,5.4,3.2
+S05787,Economics,USA,3.2,7.0,2.0,8.2,5.5
+S08519,Business,India,3.12,6.2,0.4,7.8,5.4
+S06851,Medicine,Bangladesh,3.06,4.7,4.3,7.7,3.8
+S01517,Law,UK,4.0,1.9,5.8,7.8,3.9
+S05099,Business,Bangladesh,3.88,0.0,4.4,3.1,3.1
+S07637,Biology,Japan,3.58,7.2,4.5,4.8,1.9
+S09086,Computer Science,USA,3.79,3.4,3.0,4.1,4.2
+S08024,Computer Science,Germany,3.34,3.2,0.6,8.1,2.6
+S02393,Psychology,Bangladesh,3.34,4.8,2.8,5.7,3.5
+S00587,Computer Science,USA,3.97,3.2,5.3,5.4,1.9
+S03520,Law,Japan,2.72,5.8,3.1,7.3,5.6
+S07654,Economics,India,3.45,6.3,4.8,3.5,5.4
+S08947,Psychology,South Korea,3.69,0.0,1.3,7.2,5.4
+S00851,Medicine,Canada,3.3,5.8,4.3,2.9,3.0
+S00336,Psychology,South Korea,4.0,6.5,1.5,6.6,4.2
+S06635,Law,Japan,3.1,6.7,3.1,5.8,6.3
+S08973,Engineering,Italy,3.48,2.1,7.0,3.9,3.2
+S07494,Physics,India,3.9,5.3,5.3,5.1,2.5
+S02869,Economics,France,3.89,5.2,2.6,4.3,4.9
+S04873,Computer Science,France,3.49,5.1,0.0,1.8,4.3
+S03551,Economics,Bangladesh,3.96,6.3,5.0,7.0,2.2
+S03843,Economics,UK,3.79,1.9,2.2,8.3,4.1
+S07263,Physics,UK,3.98,2.2,1.6,2.7,3.0
+S05825,Physics,Bangladesh,3.38,1.7,3.3,6.7,4.7
+S00024,Mathematics,Germany,3.36,6.6,5.0,4.8,2.7
+S01454,Medicine,Netherlands,4.0,3.3,1.2,4.9,7.0
+S01685,Business,Brazil,2.71,0.0,3.4,6.8,3.8
+S02311,Economics,Canada,3.54,3.0,3.0,8.0,4.8
+S09064,Psychology,Netherlands,2.87,4.5,3.1,5.8,7.0
+S09407,Law,USA,2.68,3.0,1.8,4.0,5.1
+S00382,Biology,South Korea,4.0,2.9,1.5,3.5,2.3
+S05815,Business,Bangladesh,2.88,4.6,6.9,5.6,2.4
+S05551,Physics,Canada,3.02,1.7,2.4,6.0,4.8
+S09309,Computer Science,USA,3.79,3.4,1.9,6.2,3.5
+S01619,Engineering,USA,3.47,4.2,2.9,6.7,4.9
+S00790,Computer Science,Canada,3.08,4.6,2.4,4.9,5.0
+S05984,Law,Germany,3.47,3.1,0.1,8.4,4.7
+S08673,Psychology,USA,3.88,0.8,4.9,5.8,2.8
+S04476,Mathematics,France,3.8,4.8,5.1,7.3,4.1
+S05607,Medicine,France,3.07,4.8,3.5,6.2,5.9
+S09313,Biology,Brazil,3.87,4.2,3.9,7.1,3.9
+S05649,Medicine,Australia,3.89,4.3,0.0,5.2,5.6
+S06217,Business,USA,3.64,4.2,1.8,3.5,3.1
+S02287,Physics,Australia,3.81,4.9,2.7,3.0,5.0
+S09994,Medicine,USA,3.82,5.3,6.0,3.3,1.6
+S07579,Law,Australia,3.39,7.0,2.7,3.4,5.3
+S01184,Medicine,Bangladesh,3.2,2.7,2.5,5.6,4.5
+S06002,Mathematics,USA,3.64,1.7,3.3,3.8,4.1
+S05091,Economics,South Korea,2.37,4.9,5.4,3.1,3.7
+S02517,Medicine,Brazil,4.0,5.1,3.0,6.9,3.3
+S04123,Biology,Netherlands,4.0,4.7,3.2,5.4,5.4
+S05522,Mathematics,Germany,3.13,3.7,2.9,5.1,6.5
+S05628,Economics,USA,4.0,6.5,2.5,6.6,3.8
+S08361,Engineering,Netherlands,4.0,3.0,3.1,3.7,1.1
+S05873,Economics,Italy,3.82,6.0,4.0,6.8,3.8
+S08613,Mathematics,Netherlands,3.7,1.3,7.9,8.7,3.7
+S07728,Economics,Australia,2.86,5.4,0.4,5.4,7.1
+S05969,Mathematics,UK,4.0,6.1,6.3,6.6,2.9
+S01181,Psychology,Germany,2.91,2.2,0.0,8.3,7.0
+S08763,Law,Germany,3.13,4.9,2.4,6.2,5.8
+S08236,Economics,Brazil,4.0,4.8,5.5,6.5,2.9
+S02819,Biology,Italy,2.99,4.5,5.5,10.7,6.3
+S09965,Biology,Netherlands,4.0,4.8,3.8,5.9,2.9
+S08704,Medicine,Netherlands,3.93,2.7,0.9,3.7,2.8
+S06609,Mathematics,Bangladesh,3.79,5.5,1.9,6.3,4.3
+S02821,Engineering,Netherlands,3.2,6.1,3.7,12.0,3.1
+S07536,Business,Netherlands,3.06,2.7,1.2,2.8,3.2
+S02261,Engineering,South Korea,3.08,4.4,2.3,6.5,4.4
+S02240,Business,France,4.0,4.3,2.3,3.7,3.9
+S06022,Physics,Brazil,3.65,2.6,2.9,6.8,5.2
+S00783,Engineering,Japan,3.45,1.7,2.7,5.9,4.7
+S00933,Biology,Italy,3.08,4.3,0.0,1.0,3.3
+S06203,Psychology,UK,4.0,2.5,2.3,2.7,1.9
+S02413,Business,Brazil,3.24,1.9,8.2,6.6,4.1
+S06998,Mathematics,South Korea,4.0,5.3,3.3,5.7,1.1
+S09116,Engineering,Italy,4.0,3.0,4.0,6.1,2.0
+S01157,Law,France,3.65,7.3,2.6,6.2,4.4
+S08108,Medicine,Bangladesh,4.0,5.2,3.1,3.5,4.3
+S05806,Law,Japan,3.76,5.6,2.9,5.7,3.6
+S04880,Physics,Italy,4.0,2.7,3.1,9.5,4.4
+S03310,Biology,Germany,3.37,4.7,2.9,2.7,4.9
+S08962,Law,Australia,3.13,5.2,4.2,8.6,7.7
+S01703,Biology,India,3.62,1.4,3.1,6.3,6.6
+S02493,Medicine,France,2.71,5.8,3.7,10.4,5.8
+S03707,Computer Science,Japan,3.45,4.7,1.1,5.0,3.7
+S08277,Biology,France,4.0,5.6,1.5,8.0,4.1
+S00287,Economics,USA,3.74,2.0,1.9,5.7,4.6
+S01609,Biology,Australia,3.59,4.4,2.5,5.8,4.8
+S06632,Law,Brazil,4.0,6.1,3.7,7.8,2.6
+S08279,Mathematics,South Korea,3.02,3.1,1.2,7.7,5.5
+S07316,Biology,India,4.0,0.4,4.8,3.9,6.3
+S02253,Law,Netherlands,3.68,4.8,3.1,2.4,1.4
+S07416,Engineering,Canada,2.62,2.3,5.0,7.8,4.7
+S08366,Mathematics,South Korea,3.92,6.5,2.2,4.1,2.9
+S01892,Physics,UK,4.0,2.3,0.0,2.9,2.9
+S05063,Engineering,Japan,3.3,3.0,3.8,5.5,2.8
+S06121,Engineering,Australia,4.0,3.9,6.5,3.7,3.3
+S00564,Law,India,3.73,0.8,0.9,6.1,4.7
+S00292,Mathematics,UK,3.2,4.6,7.1,6.7,4.0
+S04717,Psychology,Brazil,4.0,2.5,5.0,4.3,3.1
+S07709,Economics,Australia,3.09,5.9,0.9,8.0,5.1
+S06350,Computer Science,Canada,3.59,3.6,8.2,4.4,1.2
+S00170,Engineering,USA,3.58,5.6,4.3,6.3,6.0
+S00268,Physics,UK,3.06,2.1,1.7,2.5,4.3
+S04639,Computer Science,India,2.68,6.0,0.6,3.4,5.5
+S07078,Economics,Italy,4.0,3.9,2.0,4.7,4.8
+S03356,Medicine,Italy,3.58,0.9,2.9,10.5,6.6
+S08280,Psychology,UK,3.96,4.4,3.8,4.2,4.7
+S00316,Physics,Bangladesh,4.0,3.0,1.3,2.7,4.9
+S06729,Psychology,USA,3.45,2.0,6.6,5.7,2.8
+S09496,Economics,South Korea,2.6,5.7,3.5,1.3,3.6
+S04068,Engineering,USA,3.95,0.0,3.0,3.6,3.8
+S00246,Economics,India,3.45,6.0,0.0,2.8,6.6
+S00253,Business,South Korea,4.0,2.5,1.4,4.3,4.5
+S01112,Economics,UK,3.84,2.5,6.3,4.9,3.1
+S04802,Computer Science,Japan,3.8,2.8,2.9,6.5,4.4
+S01714,Business,Canada,4.0,5.0,3.8,5.4,1.3
+S00051,Computer Science,Canada,4.0,3.4,8.2,2.1,1.0
+S01836,Biology,Australia,4.0,6.5,3.0,4.6,4.0
+S07897,Psychology,France,4.0,5.7,4.9,6.4,3.6
+S03384,Law,Netherlands,4.0,2.6,2.2,2.1,3.0
+S06411,Physics,USA,4.0,3.0,6.8,4.7,2.5
+S04314,Biology,UK,4.0,4.0,1.6,7.6,4.6
+S00873,Biology,USA,3.47,3.0,3.2,7.2,3.0
+S01255,Medicine,Japan,4.0,2.1,0.3,2.0,3.0
+S08882,Economics,France,3.82,6.9,0.0,5.8,5.4
+S05852,Engineering,UK,3.67,4.1,5.5,4.3,4.4
+S05703,Mathematics,Germany,3.47,5.1,1.9,7.6,3.6
+S08104,Psychology,Australia,2.84,1.3,1.9,4.4,4.0
+S02099,Law,Japan,2.61,5.0,0.0,8.2,5.4
+S05129,Biology,UK,3.88,7.3,3.7,5.8,2.9
+S00249,Psychology,Bangladesh,4.0,3.2,4.9,5.5,4.1
+S06562,Mathematics,India,4.0,4.5,0.0,5.3,4.2
+S01340,Psychology,Bangladesh,3.75,8.8,5.5,8.6,4.5
+S07018,Biology,France,3.76,5.5,1.8,3.1,3.0
+S02111,Psychology,Australia,3.44,2.3,2.4,7.5,4.0
+S01570,Economics,Japan,3.52,4.1,1.3,4.6,3.8
+S01727,Law,Canada,3.54,3.8,0.8,6.7,5.6
+S08385,Physics,Australia,3.66,3.2,6.4,5.2,2.7
+S06941,Physics,Brazil,3.35,0.8,5.9,2.8,2.9
+S04396,Business,Brazil,3.17,3.8,0.9,4.4,4.0
+S02421,Engineering,Australia,4.0,6.3,2.5,6.5,4.7
+S03046,Business,South Korea,3.15,6.0,2.9,4.6,5.0
+S05504,Biology,Bangladesh,3.61,3.7,4.7,9.0,2.4
+S03704,Physics,Brazil,2.86,1.9,0.6,8.3,6.0
+S08192,Computer Science,France,3.48,4.5,1.4,4.7,2.5
+S05332,Engineering,USA,2.96,2.9,0.9,5.8,4.3
+S09809,Business,Japan,3.05,4.4,3.4,2.1,4.0
+S00448,Law,Italy,3.17,2.6,2.9,1.9,3.4
+S07895,Engineering,UK,2.85,0.0,2.8,6.9,6.1
+S08729,Physics,France,3.71,3.4,1.4,6.0,5.1
+S07829,Psychology,Japan,3.46,0.0,3.6,8.0,5.6
+S01769,Law,Italy,4.0,4.6,5.6,4.5,4.5
+S06809,Business,Italy,3.87,6.6,6.1,3.5,1.6
+S04705,Medicine,Bangladesh,3.74,4.2,3.9,5.7,3.3
+S03870,Law,Netherlands,3.98,2.0,2.8,4.6,3.7
+S01656,Law,France,3.77,4.6,4.4,4.5,1.7
+S03188,Medicine,Germany,4.0,6.7,4.0,6.9,4.5
+S00684,Medicine,USA,3.9,2.9,4.2,8.2,2.2
+S04171,Engineering,Japan,2.86,5.0,5.5,3.6,4.3
+S04478,Medicine,India,4.0,0.0,3.5,3.3,3.8
+S00462,Psychology,France,3.48,1.8,1.4,4.2,4.3
+S05765,Mathematics,India,3.65,7.9,1.5,6.6,4.6
+S07523,Mathematics,Germany,3.72,4.1,5.0,3.2,2.1
+S04503,Computer Science,Netherlands,3.08,3.3,4.4,7.2,3.8
+S09710,Physics,USA,3.42,0.0,4.3,5.7,5.0
+S00319,Engineering,Australia,3.71,2.7,5.5,5.3,1.6
+S01146,Engineering,UK,3.93,3.5,1.9,5.1,3.6
+S05095,Psychology,Bangladesh,3.5,2.9,2.1,5.6,4.6
+S01394,Engineering,Italy,3.92,5.1,4.8,4.4,5.7
+S06624,Business,Netherlands,3.42,5.8,6.5,5.2,3.9
+S01502,Biology,Canada,3.06,5.8,1.8,6.2,4.6
+S06409,Engineering,Bangladesh,3.78,4.1,2.7,7.7,4.9
+S00377,Medicine,Brazil,4.0,3.6,3.3,5.3,1.3
+S00411,Medicine,UK,4.0,4.4,3.4,6.7,1.7
+S01661,Business,UK,4.0,2.5,1.6,4.0,3.5
+S03152,Law,South Korea,3.88,4.2,4.2,5.0,1.4
+S01624,Engineering,India,3.46,2.7,5.6,6.7,3.6
+S05610,Economics,Australia,3.37,3.0,4.0,5.4,4.9
+S08533,Law,USA,3.95,3.2,2.7,4.0,3.8
+S05803,Law,USA,3.13,5.4,0.8,5.9,5.8
+S05307,Physics,Netherlands,3.83,1.0,6.1,5.0,3.4
+S07087,Biology,Netherlands,3.79,5.4,3.6,8.5,4.6
+S08898,Biology,Germany,4.0,3.8,1.5,4.7,5.4
+S07489,Economics,Netherlands,4.0,5.8,2.0,6.0,5.0
+S09616,Physics,India,4.0,2.8,0.0,4.1,3.0
+S09218,Computer Science,Germany,3.51,0.0,2.4,3.1,5.2
+S01673,Mathematics,Japan,3.57,1.6,5.8,5.5,4.4
+S02359,Biology,USA,3.28,4.1,6.0,3.2,2.8
+S08468,Medicine,USA,4.0,2.2,1.0,4.8,2.7
+S00275,Computer Science,Italy,2.91,1.2,1.6,5.6,4.5
+S02474,Mathematics,Netherlands,2.87,8.3,4.5,6.6,3.3
+S05490,Economics,France,3.13,3.7,4.4,7.2,4.6
+S04772,Engineering,Bangladesh,3.14,3.5,2.3,4.1,5.1
+S02108,Psychology,France,4.0,6.8,0.2,4.3,1.7
+S07501,Law,France,4.0,8.2,5.3,6.1,3.8
+S04415,Medicine,Netherlands,3.81,4.1,9.8,5.0,3.0
+S08139,Psychology,Canada,3.69,0.0,5.0,4.1,2.7
+S08661,Biology,South Korea,3.82,2.3,5.5,7.0,3.4
+S08240,Mathematics,Japan,2.73,2.6,0.5,6.3,7.9
+S02418,Business,UK,3.52,5.4,2.9,6.7,2.9
+S08772,Physics,USA,4.0,2.2,2.6,6.4,3.9
+S02237,Engineering,Germany,4.0,2.7,5.7,3.1,2.2
+S03768,Law,Netherlands,3.86,3.3,0.7,5.4,6.4
+S09792,Medicine,Italy,4.0,2.7,1.2,5.3,5.8
+S09990,Mathematics,Bangladesh,3.03,8.8,4.2,9.1,5.2
+S09966,Biology,South Korea,4.0,3.4,3.7,6.0,4.6
+S07324,Psychology,Brazil,4.0,1.7,3.3,5.4,2.5
+S01384,Economics,India,3.3,3.5,2.7,7.4,4.2
+S03102,Computer Science,Canada,3.68,1.8,4.3,3.1,3.2
+S03922,Economics,Italy,3.49,5.4,6.0,6.2,3.7
+S06686,Physics,USA,3.49,1.5,1.4,3.6,4.2
+S03195,Psychology,Germany,3.72,5.0,4.5,3.1,2.7
+S01942,Medicine,India,3.5,2.9,3.8,5.1,3.4
+S07714,Psychology,Bangladesh,3.63,3.3,0.0,7.9,6.5
