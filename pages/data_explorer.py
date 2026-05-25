@@ -45,7 +45,6 @@ df_filtered = df[
 
 st.title("Data Explorer")
 st.caption(f"Menampilkan {len(df_filtered)} dari {len(df)} data mahasiswa setelah filter diterapkan.")
-st.markdown("---")
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Mahasiswa", len(df_filtered))
@@ -53,7 +52,6 @@ col2.metric("Rata-rata GPA", f"{df_filtered['GPA'].mean():.2f}")
 col3.metric("Rata-rata Stress", f"{df_filtered['mental_stress_level'].mean():.2f}")
 col4.metric("Rata-rata Ekskul", f"{df_filtered['extracurricular_hours_per_week'].mean():.1f} jam/minggu")
 
-st.markdown("---")
 
 tab1, tab2, tab3 = st.tabs(["Overview", "Distribusi", "Eksplorasi per Jurusan"])
 

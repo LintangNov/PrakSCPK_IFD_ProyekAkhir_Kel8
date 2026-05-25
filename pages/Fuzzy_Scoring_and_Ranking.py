@@ -57,7 +57,6 @@ df = load_data()
 
 st.title("SPK Fuzzy Scoring & Ranking")
 st.caption("Sistem Pendukung Keputusan Mahasiswa Teladan berbasis Fuzzy Mamdani.")
-st.markdown("---")
 
 tab1, tab2, tab3 = st.tabs(
     ["Fungsi Keanggotaan", "Simulator Individu", "Ranking & Analisis"]

@@ -9,7 +9,6 @@ st.set_page_config(
 
 st.title("Profil Kelompok")
 st.caption("Proyek Akhir Praktikum SCPK 2025/2026")
-st.markdown("---")
 
 tab1, tab2, tab3 = st.tabs(["Anggota", "Tentang Sistem", "Referensi"])
 
