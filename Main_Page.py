@@ -18,7 +18,7 @@ def load_data():
 
 df = load_data()
 
-st.title("🎓 SPK Pemilihan Mahasiswa Teladan")
+st.title(":material/school: SPK Pemilihan Mahasiswa Teladan")
 st.subheader("Berbasis Logika Fuzzy Mamdani")
 st.markdown("---")
 
@@ -35,32 +35,25 @@ Sistem ini menggunakan **Logika Fuzzy Mamdani** untuk merepresentasikan ketidakp
 penilaian tersebut secara lebih adil dan menyeluruh.
 """)
 
-st.markdown("---")
-
-col1, col2, col3 = st.columns(3)
+col1, col2= st.columns(2)
 
 with col1:
-    st.markdown("### 📊 Data Explorer")
-    st.markdown("""
-    Eksplorasi dataset mahasiswa secara interaktif. 
-    Lihat distribusi variabel, hubungan antar faktor, 
-    dan filter data sesuai kebutuhan.
-    """)
+    with st.container(border=True):
+        st.markdown("### :material/bar_chart: Data Explorer")
+        st.markdown("""
+        Eksplorasi dataset mahasiswa secara interaktif. 
+        Lihat distribusi variabel, hubungan antar faktor, 
+        dan filter data sesuai kebutuhan.
+        """)
 
 with col2:
-    st.markdown("### 🧮 SPK Fuzzy")
-    st.markdown("""
-    Lihat fungsi keanggotaan setiap variabel, 
-    simulasikan skor individu, dan jalankan 
-    perangkingan seluruh dataset.
-    """)
-
-with col3:
-    st.markdown("### 👤 Profil")
-    st.markdown("""
-    Informasi kelompok pengembang sistem, 
-    pembagian tugas, dan referensi proyek.
-    """)
+    with st.container(border=True):
+        st.markdown("### :material/calculate: SPK Fuzzy")
+        st.markdown("""
+        Lihat fungsi keanggotaan setiap variabel, 
+        simulasikan skor individu, dan jalankan 
+        perangkingan seluruh dataset.
+        """)
 
 st.markdown("---")
 
@@ -78,4 +71,4 @@ st.caption("300 baris data acak dari dataset global university students performa
 st.dataframe(df, use_container_width=True, height=400)
 
 st.markdown("---")
-st.caption("Dibuat untuk memenuhi Proyek Akhir Praktikum SCPK 2025/2026 · Program Studi Informatika · UPN Veteran Yogyakarta")
+st.caption("Dibuat untuk memenuhi Proyek Akhir Praktikum SCPK · Program Studi Informatika · UPN Veteran Yogyakarta")

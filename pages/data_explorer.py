@@ -141,31 +141,6 @@ with tab2:
     fig_dist.update_layout(height=400, bargap=0.05, showlegend=False)
     st.plotly_chart(fig_dist, use_container_width=True)
 
-    st.markdown("---")
-    st.subheader("GPA vs Variabel Lain")
-    st.caption("Lihat hubungan antara GPA dan variabel pilihan. Apakah GPA tinggi selalu sejalan dengan kondisi ideal?")
-
-    compare_options = {k: v for k, v in var_options.items() if v != "GPA"}
-    selected_compare_label = st.selectbox("Bandingkan GPA dengan:", list(compare_options.keys()))
-    selected_compare = compare_options[selected_compare_label]
-
-    fig_compare = px.scatter(
-        df_filtered,
-        x="GPA",
-        y=selected_compare,
-        color="major",
-        trendline="ols",
-        hover_data=["student_id", "country"],
-        labels={"GPA": "GPA", selected_compare: selected_compare_label, "major": "Jurusan"},
-        template="plotly_white",
-        opacity=0.7,
-    )
-    fig_compare.update_layout(
-        height=430,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-    )
-    st.plotly_chart(fig_compare, use_container_width=True)
-
 with tab3:
     st.subheader("Rata-rata Variabel per Jurusan")
     st.caption(
