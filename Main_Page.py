@@ -60,7 +60,7 @@ st.markdown("---")
 st.markdown("### Ringkasan Dataset")
 
 col_a, col_b, col_c, col_d = st.columns(4)
-col_a.metric("Total Data", len(df))
+col_a.metric("Total Data", 1000)
 col_b.metric("Jumlah Jurusan", df["major"].nunique())
 col_c.metric("Jumlah Negara", df["country"].nunique())
 col_d.metric("Rata-rata GPA", f"{df['GPA'].mean():.2f}")

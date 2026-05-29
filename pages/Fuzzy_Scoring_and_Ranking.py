@@ -26,7 +26,7 @@ st.set_page_config(
 def load_data():
     file_path = os.path.join(BASE_DIR, "..", "data", "data_sampel.csv")
     df = pd.read_csv(file_path)
-    return df.sample(300, random_state=42)
+    return df
 
 
 @st.cache_data

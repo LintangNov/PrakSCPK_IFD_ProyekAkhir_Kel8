@@ -11,7 +11,7 @@ def load_data():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(BASE_DIR, "..", "data", "data_sampel.csv")
     df = pd.read_csv(file_path)
-    return df.sample(300, random_state=42)
+    return df
 
 df = load_data()
 
